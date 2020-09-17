@@ -5,6 +5,6 @@ Reinforcement machine learning algorithm that learns how to play “Swinging Mon
 
 To set up:
 
-install pygame module: http://www.pygame.org/wiki/GettingStarted and download “SwingyMonkey” 
+Install pygame module: http://www.pygame.org/wiki/GettingStarted and download “SwingyMonkey” 
 
 ![](swingy.png)
