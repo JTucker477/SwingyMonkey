@@ -7,4 +7,4 @@ To set up:
 
 install pygame module: http://www.pygame.org/wiki/GettingStarted and download “SwingyMonkey” 
 
-![](Swingy.png)
+![](swingy.png)
